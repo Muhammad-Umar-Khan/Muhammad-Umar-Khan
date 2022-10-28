@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammad-Umar-Khan
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Web Development Technologies
+- 👀 I'm Computer Engineer
+- 🌱 I’m currently working on ReactJS/Redux, nodeJS, expressJS, mongoDB and MySQL
 - 💞️ I’m looking to collaborate on your project
 - 📫 Email me at umarasaboor@gmail.com
 
