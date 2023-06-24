@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muhammad-Umar-Khan
-- 👀 I'm a Computer Engineer
+- 👀 I'm a Software Engineer
 - 🌱 I work on ReactJS/Redux, nodeJS, expressJS, mongoDB and MySQL
 - 💞️ I’m looking forward to collaborate on your project
 - 📫 Email me at umarasaboor@gmail.com
