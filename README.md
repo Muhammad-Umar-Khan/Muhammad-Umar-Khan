@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammad-Umar-Khan
 - 👀 I'm a Software Engineer
-- 🌱 I work on ReactJS/Redux, NextJS, NodeJS, ExpressJS, MongoDB and MySQL
+- 🌱 I work on ReactJS/Redux, NextJS, NodeJS, ExpressJS, MongoDB, MySQL and Supabase
 - 💞️ I’m looking forward to collaborate on your project
 - 📫 Email me at umarasaboor@gmail.com
 
